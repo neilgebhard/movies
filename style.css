@@ -1,0 +1,45 @@
+.card-content .detail {
+    margin-right: 20px;
+}
+
+.card-content .detail-group {
+    padding-bottom: 5px;
+}
+
+.page-footer {
+    background-color: white !important;
+}
+
+footer.page-footer .footer-copyright {
+    color: black;
+}
+
+.footer-copyright .fa {
+    color: #333;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.fa-heart {
+    color: red !important
+}
+
+select.browser-default {
+    display: inline-block;
+}
+
+[name="sort_by"] {
+    max-width: 200px;
+}
+
+[name="primary_release_year"] {
+    max-width: 100px;
+}
+
+[name="with_genres"] {
+    max-width: 200px;
+}
+
+.star {
+    color: #FFD800
+}
